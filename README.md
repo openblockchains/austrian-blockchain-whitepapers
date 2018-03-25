@@ -1,7 +1,6 @@
-# Austrian Blockchain Whitepapers
+# Austrian Blockchain Token Whitepapers
 
-The art of the steal / deal - Made in Austria - Collection of white paper on the blockchain
-
+The art of the steal / deal - Made in Austria - Collection of token white papers on the blockchain
 
 
 ## Hero / Herocoin (PLAY)
