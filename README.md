@@ -34,7 +34,7 @@ by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
 
 
-##  Pantos (PAN) by Panda
+##  Pantos (PAN) by Bitpanda
 
 Scam Alert: Medium
 
