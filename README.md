@@ -2,6 +2,7 @@
 
 The art of the steal / deal - Made in Austria - Collection of token white papers on the blockchain
 
+Welcome greater fools! Thanks for your money and holding the bag!
 
 
 ## Hero / Herocoin (PLAY) by Byte Heroes
