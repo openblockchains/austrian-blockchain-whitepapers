@@ -28,6 +28,14 @@ Token: Ethereum #20
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 
+> The future looks bright for [@HEROcoinio](https://twitter.com/HEROcoinio) Token price today is an absolute steal. 
+> Not some BS #İCO, Redeemable #token #utility with #purpose
+>
+> The future home of all #eSports #eSportsbetting #Dota2 #LeagueOfLegends #CSGO
+>
+> -- [Johnny Ozanne @ 3 April 2018](https://twitter.com/jozanne92/status/981227870117879808) 
+
+
 
 ## Lancer (LNC) by Blocklancer 
 
