@@ -5,6 +5,14 @@ The art of the steal / deal - Made in Austria - Collection of token white papers
 Welcome greater fools! Thanks for your money and holding the bag!
 
 
+## Intro / Background
+
+What's an Initial Coin Offering (ICO) / Token Sales?
+
+Read the free excerpt titled [ICOs: magic beans and bubble machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from chapter 9 from the book Attack of the 50 Foot Blockchain by David Gerard.
+
+
+
 ## Hero / Herocoin (PLAY) by Byte Heroes
 
 Scam Alert: Medium
