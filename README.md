@@ -9,7 +9,13 @@ Welcome greater fools! Thanks for your money and holding the bag!
 
 What's an Initial Coin Offering (ICO) / Token Sales?
 
-Read the free excerpt titled [ICOs: magic beans and bubble machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from chapter 9 from the book Attack of the 50 Foot Blockchain by David Gerard.
+Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from chapter 9 from the book Attack of the 50 Foot Blockchain by David Gerard.
+
+> Token offerings have been around a while, but kicked off enormously in the second bubble. 
+> The usual pretext is crowdfunding, but in practice the tokens are just traded on the exchanges as commodities. 
+> The creators then cash in. The value proposition for buyers is, as for the creators, easy money in a bubble.
+>
+> -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
 
 
 
