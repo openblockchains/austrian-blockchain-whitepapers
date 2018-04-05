@@ -107,7 +107,7 @@ Clicky, clicky, clicky and putting on a great dazzling marketing show is NOT goo
 
 Ask these companies and happy faces where's the code, code, code?
 
-Remember: Like secure cryptographic algorithm are by definition open - in the 21st century you can by 
+Remember: Like secure cryptographic algorithms are by definition open - in the 21st century you can by 
 definition only
 build open distributed platforms with open (source) code.
 
