@@ -96,14 +96,14 @@ and  - surprise, surprise - you have zero legal claim to anything.
 Welcome to the world of business! Buyer beware! 
 
 
-### Q: How can say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest buisnessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
+### Q: How can say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
 
 A: Money! Money! Money! Breaking news: Free easy money corrupts.
 
 Breaking news: Building a "platform" to revolutionize the online betting market, tourism, token trading, ...  
 you need to work, work, work hard
 and - surprise, surprise - you need code monkeys (programmers).
-Clicky, clicky, clicky is NOT good enough. 
+Clicky, clicky, clicky and putting on a great dazzling marketing show is NOT good enough.
 
 Ask these companies and happy faces where's the code, code, code?
 
