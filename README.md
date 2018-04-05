@@ -35,6 +35,15 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 >
 > -- [Johnny Ozanne @ 3 April 2018](https://twitter.com/jozanne92/status/981227870117879808) 
 
+> $PLAY was my first ICO. They are literally going to the moon with their online betting utility token!
+>
+> -- [Bitcoin Player @ 19 Feb 2018](https://twitter.com/cryptoschteen/status/965629767008575488)
+
+> In times like these, you JUST HODL IT! big times coming 🚀 watch live now @realmadriden  #esports #blockchain #onlinebetting
+>
+> -- [Hero @ 10 March 2018](https://twitter.com/HEROcoinio/status/972450753989238790)
+
+
 
 
 ## Lancer (LNC) by Blocklancer 
