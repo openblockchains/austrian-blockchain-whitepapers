@@ -46,8 +46,8 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 > -- [Hero @ 10 March 2018](https://twitter.com/HEROcoinio/status/972450753989238790)
 
 
-> 🔥 FINALLY we can announce that HEROcoin ($PLAY) will be LISTED on @kucoincom! 🔥🔥🔝 
-> Thank you very much for your patience and your support! 💙  
+> 🔥 FINALLY we can announce that HEROcoin ($PLAY) will be LISTED on @kucoincom! 🔥🔥🔝
+> Thank you very much for your patience and your support! 💙
 > More about #HEROcoin and #KuCoin: visit http://www.herocoin.io  and http://www.kucoin.com ! #cryptocurrency
 >
 > -- [Hero @ 23 Feb 2018](https://twitter.com/HEROcoinio/status/966978905876856832)
