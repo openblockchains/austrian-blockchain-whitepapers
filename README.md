@@ -149,10 +149,10 @@ Ask these companies and happy faces where's the code, code, code?
 
 Remember: Like secure cryptographic algorithms are by definition open - in the 21st century you can by 
 definition only
-build open distributed platforms with open (source) code.
+build open decentralized platforms with open (source) code.
 
 Ask these companies where are the daily check-ins, check-ins, check-ins?
-Where are the daily commits, commits, commits?
+Where are the daily commits, commits, commits? (†)
 
 Remember: Running (working) code wins.
 
@@ -161,3 +161,10 @@ let's name it straight - big lies and cash grab scams.
 Thanks for the free money and holding the bag! 
 
 
+---
+
+(†): As an example / case study: The Bytes Heroes company sent in the [/ByteHeroes org(anization) with open source repos](https://github.com/ByteHeroes) -
+"to proof" how hard they work on the new open decentralized platform. 
+Surprise, surprise - the only open (source) code is the blockchain contracts to grab your money (and - of course - the contract code is just a run-of-the-mill copy used by all the other schemers).
+Compare this to the humble [/OpenBlockchains education initiative](https://github.com/openblockchains) by a single random nobody funded by zero dollars ($0)
+and written and coded in free time - See a difference?
