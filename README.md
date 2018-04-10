@@ -93,6 +93,7 @@ Token: Ethereum #20
 
 by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
+![](i/tweet-conda-austria.png)
 
 
 ## Cultural Coin (CC) by Cultural Places / Oroundo Mobile
