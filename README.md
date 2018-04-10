@@ -1,6 +1,9 @@
 
 ![](i/tweet-blocklancer-iii.png)
 
+![](i/tweet-hero-v.png)
+
+
 
 # Austrian Blockchain Token Whitepapers
 
@@ -31,6 +34,21 @@ Token: Ethereum #20
 
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
+![](i/tweet-hero.png)
+
+![](i/tweet-hero-ii.png)
+
+![](i/tweet-hero-iib.png)
+
+![](i/tweet-hero-iii.png)
+
+![](i/tweet-hero-iiii.png)
+
+![](i/tweet-hero-iiiib.png)
+
+
+
+<!--   use pics for now
 
 > The future looks bright for [@HEROcoinio](https://twitter.com/HEROcoinio) Token price today is an absolute steal. 
 > Not some BS #İCO, Redeemable #token #utility with #purpose
@@ -56,7 +74,7 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 >
 > -- [Hero @ 23 Feb 2018](https://twitter.com/HEROcoinio/status/966978905876856832)
 
-
+-->
 
 
 ## Lancer (LNC) by Blocklancer 
