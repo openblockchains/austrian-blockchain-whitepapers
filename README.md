@@ -115,6 +115,9 @@ Token: Ethereum #20
 
 by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
 
+![](i/tweet-culturalplaces.png)
+
+
 
 ## Frequently Asked Questions (F.A.Q.s) and Answers
 
