@@ -63,6 +63,8 @@ Token: Ethereum #20
 
 by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
+![](i/tweet-blocklancer.png)
+
 
 
 ## Rotharium (RTH) by Crypto Future
