@@ -16,19 +16,18 @@ Welcome greater fools! Thanks for your money and holding the bag!
 
 Contents
 
-- [Intro / Background]()
-  - [What's an Initial Coin Offering (ICO) / Token Sales?]()
-- [Austrain Blockchain Tokens]()
-  - [Hero / Herocoin (PLAY) by Byte Heroes]()
-  - [Lancer (LNC) by Blocklancer]()
-  - [Rotharium (RTH) by Crypto Future]()
-  - [Pantos (PAN) by Bitpanda]()
-  - [Crowd (CRWD) by Conda]()
-  - [Cultural Coin (CC) by Cultural Places / Oroundo Mobile]()
-- [Frequently Asked Questions (F.A.Q.s) and Answers]()
-  - [What's a Token Sale Scam?]()
-  - [How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?]()
-
+- [Intro / Background](#intro--background)
+  - [What's an Initial Coin Offering (ICO) / Token Sales?](#q-whats-an-initial-coin-offering-ico--token-sales)
+- [Austrain Blockchain Tokens](#austrian-blockchain-tokens)
+  - [Hero / Herocoin (PLAY) by Byte Heroes](#hero--herocoin-play-by-byte-heroes)
+  - [Lancer (LNC) by Blocklancer](#lancer-lnc-by-blocklancer)
+  - [Rotharium (RTH) by Crypto Future](#rotharium-rth-by-crypto-future)
+  - [Pantos (PAN) by Bitpanda](#pantos-pan-by-bitpanda)
+  - [Crowd (CRWD) by Conda](#crowd-crwd-by-conda)
+  - [Cultural Coin (CC) by Cultural Places / Oroundo Mobile](#cultural-coin-cc-by-cultural-places--oroundo-mobile)
+- [Frequently Asked Questions (F.A.Q.s) and Answers](#frequently-asked-questions-faqs-and-answers)
+  - [What's a Token Sale Scam?](#q-whats-a-token-sale-scam)
+  - [How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?](#q-how-can-you-say-that-these-platform-token-sales-are-scams-have-you-read-the-white-paper-have-you-seen-all-these-serious-honest-businessmen-the-management-team-and-all-advisors-and-more-than-dozens-of-happy-faces-in-the-brochure)
 
 
 ## Intro / Background
