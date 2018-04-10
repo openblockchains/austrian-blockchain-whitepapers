@@ -1,3 +1,7 @@
+
+![](i/tweet-blocklancer-iii.png)
+
+
 # Austrian Blockchain Token Whitepapers
 
 The art of the steal / deal - Made in Austria - Collection of token white papers on the blockchain
@@ -66,8 +70,6 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 ![](i/tweet-blocklancer.png)
 
 ![](i/tweet-blocklancer-ii.png)
-
-![](i/tweet-blocklancer-iii.png)
 
 
 ## Rotharium (RTH) by Crypto Future
