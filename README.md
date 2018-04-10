@@ -67,6 +67,8 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 ![](i/tweet-blocklancer-ii.png)
 
+![](i/tweet-blocklancer-iii.png)
+
 
 ## Rotharium (RTH) by Crypto Future
 
