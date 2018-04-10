@@ -42,6 +42,24 @@ Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://dav
 >
 > -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
 
+Buyer beware! If it sounds too good to be true, - surprise, surprise - it is.
+Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
+
+> Early investment is paying off big time
+>
+> The average return on the S&P is 10%. Over the last year bitcoin has seen unprecedented returns of 1000%. 
+> But savvy cryptocurrency investors are investing in initial coin offerings (ICOs) 
+> and making return on investments (ROIs) 
+> as high as 50 000%. Stop and think about that for a moment. That means for a $100 investment in early 2017
+> you could have netted $50 000. Not too shabby for a year of trading.
+> 
+> [..]
+>
+> The majority of startups fail, even well funded ones,
+> so be prepared to lose [all] what you invest [gamble], 
+> even if the landscape is optimistic. [Too the moon!] 
+
+
 
 ## Austrian Blockchain Tokens
 
