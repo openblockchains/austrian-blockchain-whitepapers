@@ -3,10 +3,11 @@
 
 ![](i/tweet-blocklancer-iii.png)
 
-![](i/tweet-rotharium-ii-300px.png)
-
 
 PLAY • LNC •  RTH •  PAN •  CRWD •  CC
+
+![](i/tweet-rotharium-ii-300px.png)
+
 
 # Austrian Blockchain Token Whitepapers
 
