@@ -43,7 +43,7 @@ Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://dav
 > -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
 
 Buyer beware! If it sounds too good to be true, - surprise, surprise - it is.
-Bullshit (BS) Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
+The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
 
 > Early investment is paying off big time
 >
