@@ -12,7 +12,7 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
-Welcome greater fools! Thanks for your money and holding the bag!
+Welcome greater fools! Thanks for your money and hodling the bag!
 
 Contents
 
@@ -57,8 +57,7 @@ Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoo
 >
 > The majority of startups fail, even well funded ones,
 > so be prepared to lose [all] what you invest [gamble], 
-> even if the landscape is optimistic. [Too the moon!] 
-
+> even if the landscape is optimistic. [Too the moon! Thanks for your money and hodling the bag!] 
 
 
 ## Austrian Blockchain Tokens
@@ -229,7 +228,7 @@ Remember: Running (working) code wins.
 
 Without open (source) code for all to see the white paper promises are just dreams or
 let's name it straight - big lies and cash grab scams.
-Thanks for the free money and holding the bag! 
+Thanks for the free money and hodling the bag! 
 
 
 ---
