@@ -80,6 +80,7 @@ Token: Ethereum #20
 
 by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
+![](i/tweet-rotharium.png)
 
 
 ##  Pantos (PAN) by Bitpanda
