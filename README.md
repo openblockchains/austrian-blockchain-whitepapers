@@ -3,7 +3,7 @@
 
 ![](i/tweet-blocklancer-iii.png)
 
-![](i/tweet-rotharium-ii.png)
+![](i/tweet-rotharium-ii-300px.png)
 
 
 PLAY • LNC •  RTH •  PAN •  CRWD •  CC
