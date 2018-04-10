@@ -136,7 +136,7 @@ and  - surprise, surprise - you have zero legal claim to anything.
 Welcome to the world of business! Buyer beware! 
 
 
-### Q: How can say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
+### Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
 
 A: Money! Money! Money! Breaking news: Free easy money corrupts.
 
