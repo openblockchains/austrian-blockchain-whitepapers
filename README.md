@@ -58,7 +58,7 @@ The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors a
 >
 > The majority of startups fail, even well funded ones,
 > so be prepared to lose [all] what you invest [gamble], 
-> even if the landscape is optimistic. [Too the moon! Thanks for your money and hodling the bag!] 
+> even if the landscape is optimistic. [To the moon! Thanks for your money and hodling the bag!] 
 
 
 ## Austrian Blockchain Tokens
