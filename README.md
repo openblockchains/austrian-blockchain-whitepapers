@@ -4,17 +4,34 @@
 ![](i/tweet-blocklancer-iii.png)
 
 
+PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 # Austrian Blockchain Token Whitepapers
 
-The art of the steal / deal - Made in Austria - Collection of token white papers on the blockchain
+The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
 Welcome greater fools! Thanks for your money and holding the bag!
+
+Contents
+
+- [Intro / Background]()
+  - [What's an Initial Coin Offering (ICO) / Token Sales?]()
+- [Austrain Blockchain Tokens]()
+  - [Hero / Herocoin (PLAY) by Byte Heroes]()
+  - [Lancer (LNC) by Blocklancer]()
+  - [Rotharium (RTH) by Crypto Future]()
+  - [Pantos (PAN) by Bitpanda]()
+  - [Crowd (CRWD) by Conda]()
+  - [Cultural Coin (CC) by Cultural Places / Oroundo Mobile]()
+- [Frequently Asked Questions (F.A.Q.s) and Answers]()
+  - [What's a Token Sale Scam?]()
+  - [How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?]()
+
 
 
 ## Intro / Background
 
-What's an Initial Coin Offering (ICO) / Token Sales?
+### Q: What's an Initial Coin Offering (ICO) / Token Sales?
 
 Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://davidgerard.co.uk/blockchain/icos-magic-beans-and-bubble-machines/) from the book [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/) by David Gerard.
 
@@ -25,8 +42,9 @@ Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://dav
 > -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
 
 
+## Austrian Blockchain Tokens
 
-## Hero / Herocoin (PLAY) by Byte Heroes
+### Hero / Herocoin (PLAY) by Byte Heroes
 
 Scam Alert: Medium
 
@@ -77,7 +95,7 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 -->
 
 
-## Lancer (LNC) by Blocklancer 
+### Lancer (LNC) by Blocklancer 
 
 Scam Alert: High
 
@@ -90,7 +108,7 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 ![](i/tweet-blocklancer-ii.png)
 
 
-## Rotharium (RTH) by Crypto Future
+### Rotharium (RTH) by Crypto Future
 
 Scam Alert: High
 
@@ -101,7 +119,7 @@ by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 ![](i/tweet-rotharium.png)
 
 
-##  Pantos (PAN) by Bitpanda
+### Pantos (PAN) by Bitpanda
 
 Scam Alert: Medium
 
@@ -115,7 +133,7 @@ by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 Future-Proof!? For ALL Blockchains!?  -- Q: Just wondering - Can you predict the future? How many blockchains are out there now (and in the future)?
 
 
-## Crowd (CRWD) by Conda
+### Crowd (CRWD) by Conda
 
 Scam Alert: Medium
 
@@ -126,7 +144,7 @@ by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 ![](i/tweet-conda-austria.png)
 
 
-## Cultural Coin (CC) by Cultural Places / Oroundo Mobile
+### Cultural Coin (CC) by Cultural Places / Oroundo Mobile
 
 Scam Alert: High
 
