@@ -83,6 +83,10 @@ Token: Ethereum #20
 
 by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 
+![](i/tweet-bitpanda.png)
+
+
+Future-Proof!? For ALL Blockchains!?  -- Q: Just wondering - Can you predict the future? How many blockchains are out there now (and in the future)?
 
 
 ## Crowd (CRWD) by Conda
