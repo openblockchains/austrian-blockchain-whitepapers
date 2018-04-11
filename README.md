@@ -8,6 +8,11 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 ![](i/tweet-rotharium-ii-300px.png)
 
+---
+Disclaimer: Short version: Please think for yourself. 
+
+Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.
+---
 
 # Austrian Blockchain Token Whitepapers
 
@@ -16,7 +21,8 @@ The art of the steal / deal - Made in Austria   - Collection of token white pape
 Welcome greater fools! Thanks for your money and hodling the bag!
 
 
-New to CryptoCurrencies and CryptoTokens?
+---
+## New to CryptoCurrencies and CryptoTokens?
 
 **See the [Last Week Tonight with John Oliver (HBO) about Cryptocurrencies Video](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
 
@@ -24,10 +30,7 @@ New to CryptoCurrencies and CryptoTokens?
 are generating a lot of get-rich-quick excitement. 
 John Oliver enlists Keegan-Michael Key to get potential investors 
 equally excited about the concept of caution. Buyer beware!**
-
-Disclaimer: Short version: Please think for yourself. 
-
-Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.
+---
 
 
 Contents
