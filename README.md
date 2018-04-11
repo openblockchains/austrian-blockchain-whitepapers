@@ -29,7 +29,7 @@ Welcome greater fools! Thanks for your money and hodling the bag!
 
 **New to CryptoCurrencies and CryptoTokens?**
 
-**See the [Last Week Tonight with John Oliver (HBO) about Cryptocurrencies Video](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
+**See the [Last Week Tonight with John Oliver (HBO) Video on CryptoCurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
 
 **Digital currencies and "platform" app tokens 
 are generating a lot of get-rich-quick excitement. 
