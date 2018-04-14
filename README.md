@@ -44,6 +44,8 @@ Contents
 
 - [Intro / Background](#intro--background)
   - [What's an Initial Coin Offering (ICO) / Token Sales?](#q-whats-an-initial-coin-offering-ico--token-sales)
+  - [Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullshit / a scam.]()
+  - [How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales]()
 - [Austrain Blockchain Tokens](#austrian-blockchain-tokens)
   - [Hero / Herocoin (PLAY) by Byte Heroes](#hero--herocoin-play-by-byte-heroes)
   - [Lancer (LNC) by Blocklancer](#lancer-lnc-by-blocklancer)
@@ -68,6 +70,9 @@ Read the free excerpt titled [ICOs: Magic Beans and Bubble Machines](https://dav
 >
 > -- David Gerard (Attack of the 50 Foot Blockchain / ICOs: Magic Beans and Bubble Machines)
 
+
+### Q: Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullshit / a scam.
+
 Buyer beware! If it sounds too good to be true, - surprise, surprise - it is.
 The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors are making 50 000% returns on ICOs](https://hackernoon.com/investors-are-making-50-000-returns-on-icos-32432bc741d1) by Coin and Crypto.
 
@@ -84,6 +89,36 @@ The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors a
 > The majority of startups fail, even well funded ones,
 > so be prepared to lose [all] what you invest [gamble], 
 > even if the landscape is optimistic. [To the moon! Thanks for your money and hodling the bag!] 
+
+
+### Q: How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
+
+
+CryptoCurrency (Bitcoin Accepted Here) vs Austrian App "Platform" Tokens
+
+Bitcoins get "mined" with every new block every ten minutes. You CANNOT buy newly minted bitcoins.
+The bitcoin "lottery" gives away FREE bitcoins
+for the lucky winner / number every ten minutes with every block added for the next TEN YEARS.
+
+Why a lottery? A random (secure) lottery - using the famous proof-of-work hashing crypto "puzzle" -
+is the fairest distribution between all network nodes / peers / players.
+
+
+vs
+
+Austrian tokens do NOT get mined. You can create / mint as many tokens as you like!a
+Just punch / type in a number - lets say two billion. 
+Sell of 30% in an "initial coin offering" (ICO) / token sales to greater fools
+in a free money get-rich-quick cash grab running for lets say two or three weeks
+and keep the rest "in reserve" for yourself.
+
+It's that easy and with the ready-to-use/ready-to-run Ethereum blockchain / network
+you're off in ten minutes! 
+
+Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 50 000% on your "investment" 
+and the fear of missing out (FOMO) on the next (Austrian) bitcoin.
+
+
 
 
 ## Austrian Blockchain Tokens
