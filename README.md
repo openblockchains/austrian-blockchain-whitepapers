@@ -108,7 +108,7 @@ vs
 
 Austrian tokens do NOT get mined. You can create / mint as many tokens as you like!
 Just punch / type in a number - lets say two billion. 
-Sell of 30% in an "initial coin offering" (ICO) / token sales to greater fools
+Sell off 30% in an "initial coin offering" (ICO) / token sales to greater fools
 in a free money get-rich-quick cash grab running for lets say two or three weeks
 and keep the rest "in reserve" for yourself.
 
