@@ -45,7 +45,7 @@ Contents
 - [Intro / Background](#intro--background)
   - [What's an Initial Coin Offering (ICO) / Token Sales?](#q-whats-an-initial-coin-offering-ico--token-sales)
   - [Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullshit / a scam.](#q-making-50-000-returns-on-ico-investments---possible-spoiler-no-its-bullshit--a-scam)
-  - [How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales](q-how-do-bitcoins-differ-from-austrian-ico-tokens-10-year-lottery-vs-get-rich-quick-cash-grab-token-sales)
+  - [How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales](#q-how-do-bitcoins-differ-from-austrian-ico-tokens-10-year-lottery-vs-get-rich-quick-cash-grab-token-sales)
 - [Austrain Blockchain Tokens](#austrian-blockchain-tokens)
   - [Hero / Herocoin (PLAY) by Byte Heroes](#hero--herocoin-play-by-byte-heroes)
   - [Lancer (LNC) by Blocklancer](#lancer-lnc-by-blocklancer)
