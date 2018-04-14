@@ -98,7 +98,7 @@ CryptoCurrency (Bitcoin Accepted Here) vs Austrian App "Platform" Tokens
 
 Bitcoins get "mined" with every new block every ten minutes. You CANNOT buy newly minted bitcoins.
 The bitcoin "lottery" gives away FREE bitcoins
-for the lucky winner / number every ten minutes with every block added for the next TEN YEARS.
+to the lucky winner / number every ten minutes with every block added for the next TEN YEARS.
 
 Why a lottery? A random (secure) lottery - using the famous proof-of-work hashing crypto "puzzle" -
 is the fairest distribution between all network nodes / peers / players.
@@ -106,7 +106,7 @@ is the fairest distribution between all network nodes / peers / players.
 
 vs
 
-Austrian tokens do NOT get mined. You can create / mint as many tokens as you like!a
+Austrian tokens do NOT get mined. You can create / mint as many tokens as you like!
 Just punch / type in a number - lets say two billion. 
 Sell of 30% in an "initial coin offering" (ICO) / token sales to greater fools
 in a free money get-rich-quick cash grab running for lets say two or three weeks
