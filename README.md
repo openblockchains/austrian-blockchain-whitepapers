@@ -144,9 +144,9 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 ![](i/tweet-hero-iiiib.png)
 
 
-> We set-up a system [free token "bounty" ICO bumbing program] where our community members & investors were rewarded
+> We set-up a system [free token "bounty" ICO pumping program] where our community members & investors were rewarded
 > [free tokens! free tokens! free tokens!]
-> for spreading the word [bumping the ICO] by sharing, posting, uploading, joining channels & commenting 
+> for spreading the word [pumping the ICO] by sharing, posting, uploading, joining channels & commenting 
 > [in Facebook, Twitter, LinkedIn, YouTube, Personal Blog, Reddit, Bitcoin Talk, ...]. 
 > The most common questions here were: "Where do I have to report [to get my free tokens, free money]?", 
 > "How much [free tokens, free money] do I get?", 
