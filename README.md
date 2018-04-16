@@ -45,7 +45,7 @@ Contents
 - [Intro / Background](#intro--background)
   - [What's an Initial Coin Offering (ICO) / Token Sales?](#q-whats-an-initial-coin-offering-ico--token-sales)
   - [Making 50 000% Returns on ICO "Investments" - Possible? Spoiler: No. It's bullshit / a scam.](#q-making-50-000-returns-on-ico-investments---possible-spoiler-no-its-bullshit--a-scam)
-  - [How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales](#q-how-do-bitcoins-differ-from-austrian-ico-tokens-10-year-lottery-vs-get-rich-quick-cash-grab-token-sales)
+  - [How do Bitcoins differ from Austrian ICO tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales](#q-how-do-bitcoins-differ-from-austrian-ico-tokens-20-year-lottery-vs-get-rich-quick-cash-grab-token-sales)
 - [Austrain Blockchain Tokens](#austrian-blockchain-tokens)
   - [Hero / Herocoin (PLAY) by Byte Heroes](#hero--herocoin-play-by-byte-heroes)
   - [Lancer (LNC) by Blocklancer](#lancer-lnc-by-blocklancer)
@@ -91,14 +91,14 @@ The Future is Bright! Free Easy Money Bullshit (BS) Example - [Early Investors a
 > even if the landscape is optimistic. [To the moon! Thanks for your money and hodling the bag!] 
 
 
-### Q: How do Bitcoins differ from Austrian ICO tokens? 10-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
+### Q: How do Bitcoins differ from Austrian ICO tokens? 20-Year-Lottery vs Get-Rich-Quick-Cash-Grab-Token-Sales
 
 
 CryptoCurrency (Bitcoin Accepted Here) vs Austrian App "Platform" Tokens
 
 Bitcoins get "mined" with every new block every ten minutes. You CANNOT buy newly minted bitcoins.
 The bitcoin "lottery" gives away FREE bitcoins
-to the lucky winner / number every ten minutes with every block added for the next TEN YEARS.
+to the lucky winner / number every ten minutes with every block added for the next TWENTY YEARS.
 
 Why a lottery? A random (secure) lottery - using the famous proof-of-work hashing crypto "puzzle" -
 is the fairest distribution between all network nodes / peers / players.
@@ -236,9 +236,9 @@ by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
 ![](i/tweet-conda-austria-bounty.png)
 
-![](i/tweet-conda-austria.png)
-
 ![](i/tweet-conda-austria-ii.png)
+
+![](i/tweet-conda-austria.png)
 
 ![](i/tweet-conda-austria-iii.png)
 
