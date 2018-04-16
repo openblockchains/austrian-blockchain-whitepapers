@@ -8,37 +8,12 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 ![](i/tweet-rotharium-ii-300px.png)
 
----
-
-Disclaimer: Short version: Please think for yourself. 
-
-Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.
-
----
-
-
 
 # Austrian Blockchain Token Whitepapers
 
 The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
 Welcome greater fools! Thanks for your money and hodling the bag!
-
-
----
-
-**New to CryptoCurrencies and CryptoTokens?**
-
-**See the [Last Week Tonight with John Oliver (HBO) Video on CryptoCurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
-
-**Digital currencies and "platform" app tokens 
-are generating a lot of get-rich-quick excitement. 
-John Oliver enlists Keegan-Michael Key to get potential investors 
-equally excited about the concept of caution. Buyer beware!**
-
----
-
-
 
 Contents
 
@@ -321,3 +296,25 @@ Thanks for the free money and hodling the bag!
 Surprise, surprise - the only open (source) code is the blockchain contracts to grab your money (and - of course - the contract code is just a run-of-the-mill copy used by all the other schemers).
 Compare this to the humble [/OpenBlockchains education initiative](https://github.com/openblockchains) by a single random nobody funded by zero dollars ($0)
 and written and coded in free time - See a difference?
+
+
+
+
+
+
+---
+
+**Disclaimer: Short version: Please think for yourself.** 
+
+**Long version: Nothing contained on these pages is, or should be construed as providing or offering, investment, legal, accounting, tax or other advice. Do not act on any opinion expressed here without consulting a qualified professional. Note: The writers do not hold a position in any crypto tokens or cryptocurrency or blockchain company.**
+
+---
+
+**New to CryptoCurrencies and CryptoTokens?**
+
+**See the [Last Week Tonight with John Oliver (HBO) Video on CryptoCurrencies](https://www.youtube.com/watch?v=g6iDZspbRMg) @ YouTube (30min).**
+
+**Digital currencies and "platform" app tokens 
+are generating a lot of get-rich-quick excitement. 
+John Oliver enlists Keegan-Michael Key to get potential investors 
+equally excited about the concept of caution. Buyer beware!**
