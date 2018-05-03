@@ -263,6 +263,8 @@ when - surprise, surprise - the company already collected all the free money fro
 and  - surprise, surprise - you have zero legal claim to anything. 
 Welcome to the world of business! Buyer beware! 
 
+![](/i/trolly-cryptosplit.png)
+
 
 ### Q: How can you say that these "Platform" Token Sales are Scams? Have you read the white paper? Have you seen all these serious honest businessmen, the management team and all advisors and more than dozens of happy faces in the brochure?
 
@@ -287,6 +289,8 @@ Remember: Running (working) code wins.
 Without open (source) code for all to see the white paper promises are just dreams or
 let's name it straight - big lies and cash grab scams.
 Thanks for the free money and hodling the bag! 
+
+![](/i/trolly-ico.png)
 
 
 ---
