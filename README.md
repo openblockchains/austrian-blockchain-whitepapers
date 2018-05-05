@@ -93,6 +93,9 @@ you're off in ten minutes!
 Free easy money! Buyer beware! Do NOT get scammed by the promise of returns of 50 000% on your "investment" 
 and the fear of missing out (FOMO) on the next (Austrian) bitcoin.
 
+What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
+
+![](i/trolly-icos-btc.png)
 
 
 
