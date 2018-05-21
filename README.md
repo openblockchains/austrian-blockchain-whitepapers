@@ -1,4 +1,10 @@
 
+
+**New to Initial Coin Offerings (ICOs) / Scams? See the [Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies](https://github.com/openblockchains/awesome-ico-truths) page.**
+
+
+
+
 ![](i/tweet-hero-v.png)
 
 ![](i/tweet-blocklancer-iii.png)
