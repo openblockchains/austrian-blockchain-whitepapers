@@ -5,11 +5,10 @@
 
 ---
 
-
-PLAY • LNC •  RTH •  PAN •  CRWD •  CC
-
 ![](i/tweet-rotharium-ii-300px.png)
 
+
+PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 # Austrian Blockchain Token Whitepapers
 
