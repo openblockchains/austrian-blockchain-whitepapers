@@ -3,11 +3,7 @@
 **New to Initial Coin Offerings (ICOs) / Scams? See the [Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies](https://github.com/openblockchains/awesome-ico-truths) page.**
 
 
-
-
-![](i/tweet-hero-v.png)
-
-![](i/tweet-blocklancer-iii.png)
+---
 
 
 PLAY • LNC •  RTH •  PAN •  CRWD •  CC
@@ -16,6 +12,11 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
 
 # Austrian Blockchain Token Whitepapers
+
+![](i/tweet-hero-v.png)
+
+![](i/tweet-blocklancer-iii.png)
+
 
 The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
