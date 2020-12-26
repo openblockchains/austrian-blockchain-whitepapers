@@ -126,11 +126,9 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 
-_Decentralized solution for i(nteractive video) gaming. Use $PLAY to bet on esports with our platform herosphere.gg_ 
+_Decentralized blockchain solution for i(nteractive video) gaming. Use $PLAY to bet on esports on our herosphere.gg website_ 
 
-Scam Alert: Medium
-
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
+Scam Alert: Medium   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
 - Token: PLAY
 - Type: Ethereum #20 / Utility
@@ -172,6 +170,11 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 
 
+<!-- more -->
+- Source Code: [ByteHeroes @ GitHub](https://github.com/ByteHeroes)
+
+
+
 <!--   use pics for now
 
 > The future looks bright for [@HEROcoinio](https://twitter.com/HEROcoinio) Token price today is an absolute steal. 
@@ -208,9 +211,7 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 _Distributed autonomous job market. Completely self-regulatory blockchain system for freelancers for finding jobs and getting projects done_
 
-Scam Alert: High
-
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
+Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
 
 - Token: LNC
 - Type: Ethereum #20 / Utility
@@ -242,13 +243,18 @@ Lancer (LNC) by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All T
 
 by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
-
-Scam Alert: High
-
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-89.22%%  (Thanks, for the Free Money!)**, (Source: [Rotharium Price Today](https://coinmarketcap.com/currencies/rotharium/))
+_Rotharium is the gate to the blockchain that enables you to integrate your apps into the blockchain ecosystem. Create decentralized and transparent business processes. Connect standard cloud or on-premise database solutions to the blockchain_
 
 
-Token: Ethereum #20
+Scam Alert: High   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-89.22%%  (Thanks, for the Free Money!)**, (Source: [Rotharium Price Today](https://coinmarketcap.com/currencies/rotharium/))
+
+- Token: RTH
+- Type: Ethereum #20 / Payment
+- Price in ICO: 6.6017 USD
+- preICO start: 16th Nov 2017
+- preICO end: 12th Dec 2017
+- ICO start: 13th Dec 2017
+- ICO end: 14th Jan 2018
 
 
 ![](i/tweet-rotharium.png)
@@ -267,14 +273,13 @@ by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 
 _The (world's) first multi-blockchain token system. Made with ♥ and care in Vienna, Austria by Bitpanda_
 
-Scam Alert: Medium
-
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
+Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
 
-Token: Ethereum #20
+Token:  PAN
+Type: Ethereum #20 / Utility
 
 
 ![](i/tweet-bitpanda.png)
@@ -330,15 +335,17 @@ https://medium.com/pantos/pantos-project-update-the-way-towards-instant-cross-bl
 
 by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
-_A fuel for building the modern financing infrastructure based on trust and commitment_
+_A fuel for building the modern financing infrastructure on the blockchain based on trust and commitment_
 
-Scam Alert: Medium
-
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
-Token: Ethereum #20
+- Token: CRWD (or CRWT?)
+- Type: Ethereum #20 / Utility
+- PreICO Price: CRWT = 1 EUR
+- Price: CRWT = 1 EUR
+
 
 
 ![](i/tweet-conda-austria-bounty.png)
@@ -365,15 +372,20 @@ Token: Ethereum #20
 
 by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
 
-Scam Alert: High
+_(World's) first holistic blockchain platform that connects culture lovers, cultural institutions like museums, tourist sites and event venues with artists, a variety of content creators and donors_
 
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+
+Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
-
-Token: Ethereum #20
-
+- Token: CC
+- Type: Ethereum #20 / Utility
+- Price in ICO: 0.0370 USD
+- preICO start: 26th Feb 2018
+- preICO end: 4th Mar 2018
+- ICO start: 5th Mar 2018
+- ICO end: 31st Dec 2018
 
 ![](i/tweet-culturalplaces.png)
 
