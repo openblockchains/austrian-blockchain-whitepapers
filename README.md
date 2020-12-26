@@ -171,8 +171,10 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 
 
+
+
 <!-- more -->
-- Source Code: [ByteHeroes @ GitHub](https://github.com/ByteHeroes)
+Source Code: [ByteHeroes @ GitHub](https://github.com/ByteHeroes)
 
 
 
@@ -206,6 +208,8 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 
 
+---
+
 _Distributed autonomous job market. Completely self-regulatory blockchain system for freelancers for finding jobs and getting projects done_
 
 ### Lancer (LNC) by Blocklancer 
@@ -236,9 +240,11 @@ Lancer (LNC) by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All T
 
 
 <!-- more -->
-- Source Code: [BlocklancerOrg @ GitHub](https://github.com/BlocklancerOrg)
+Source Code: [BlocklancerOrg @ GitHub](https://github.com/BlocklancerOrg)
 
 
+
+---
 
 _The gate to the blockchain that enables you to integrate your apps into the blockchain ecosystem. Create decentralized and transparent business processes. Connect standard cloud or on-premise database solutions to the blockchain_
 
@@ -264,6 +270,8 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 ![](i/rotharium-2020.png)
 
 
+
+---
 
 _The (world's) first multi-blockchain token system. Made with ♥ and care in Vienna, Austria by Bitpanda_
 
@@ -327,6 +335,7 @@ https://medium.com/pantos/pantos-project-update-the-way-towards-instant-cross-bl
 -->
 
 
+---
 
 _A fuel for building the modern financing infrastructure on the blockchain based on trust and commitment_
 
@@ -365,6 +374,7 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI
 > them at a later stage, if and when required or desirable by CONDA.
 
 
+---
 
 _(World's) first holistic blockchain platform that connects culture lovers, cultural institutions like museums, tourist sites and event venues with artists, a variety of content creators and donors_
 
@@ -386,6 +396,10 @@ Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI)
 ![](i/tweet-culturalplaces.png)
 
 
+
+
+
+---
 
 ## Frequently Asked Questions (F.A.Q.s) and Answers
 
