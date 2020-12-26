@@ -8,8 +8,13 @@
 **Update 2020 - (3 Years Later)**
 
 - Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD** (All Time High $0.324006 USD (Jan 11, 2018))  - Return on "Investment" (ROI) **-98.18%**
-- Lancer (LNC) by by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
+- Lancer (LNC) by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
 - Rotharium (RTH) by Crypto Future   - Price Today (Dec 2020)  - **$0.497501 USD** (All Time High $9.44 USD (Nov 06, 2018)) - Return on "Investment" (ROI) **-89.22%**
+- Pantos (PAN) by Bitpanda - **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
+- Crowd (CRWD) by Conda    - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+- Cultural Coin (CC) by Cultural Places / Oroundo Mobile  - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+
+(†) If you have news on the scam or historic price data, please let us know.
 
 ---
 
@@ -206,7 +211,7 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 **Update 2020 - (3 Years Later)**
 
-Lancer (LNC) by by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
+Lancer (LNC) by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
 
 ![](i/blocklancer-2020.png)
 
@@ -238,6 +243,11 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 
 Scam Alert: Medium
 
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
+
+(†) If you have news on the scam or historic price data, please let us know.
+
+
 Token: Ethereum #20
 
 by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
@@ -251,6 +261,10 @@ Future-Proof!? For ALL Blockchains!?  -- Q: Just wondering - Can you predict the
 ### Crowd (CRWD) by Conda
 
 Scam Alert: Medium
+
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+
+(†) If you have news on the scam or historic price data, please let us know.
 
 Token: Ethereum #20
 
@@ -270,6 +284,11 @@ by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 ### Cultural Coin (CC) by Cultural Places / Oroundo Mobile
 
 Scam Alert: High
+
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+
+(†) If you have news on the scam or historic price data, please let us know.
+
 
 Token: Ethereum #20
 
