@@ -111,7 +111,7 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 
 Scam Alert: Medium
 
-**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/en/currencies/herocoin/))
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
 Token: Ethereum #20
 
@@ -145,7 +145,7 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 **Update 2020 - (3 Years Later)**
 
-Hero / Herocoin (PLAY) Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
+Hero / Herocoin (PLAY) by Byte Heroes Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
 
 ![](i/hero-2020.png)
 
@@ -184,6 +184,9 @@ Hero / Herocoin (PLAY) Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Inves
 
 Scam Alert: High
 
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
+
+
 Token: Ethereum #20
 
 by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
@@ -191,6 +194,15 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 ![](i/tweet-blocklancer.png)
 
 ![](i/tweet-blocklancer-ii.png)
+
+
+**Update 2020 - (3 Years Later)**
+
+Lancer (LNC) by by Blocklancer Today (Dec 2020)  -	**$0.000249 USD**  - Return on "Investment" (ROI) **-97.52%**
+
+![](i/blocklancer-2020.png)
+
+
 
 
 ### Rotharium (RTH) by Crypto Future
