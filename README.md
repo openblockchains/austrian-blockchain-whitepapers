@@ -259,10 +259,10 @@ by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 Future-Proof!? For ALL Blockchains!?  -- Q: Just wondering - Can you predict the future? How many blockchains are out there now (and in the future)?
 
 
-Total supply: 1,000,000,000 PAN
-
-- 40% of PAN will be allocated among participants of the ICO.
-- The remaining 59% of PAN are reserved as a company reserve for future fundraising, management & employees and bounties. 1% of PAN will be airdropped to eligible Bitpanda users.
+> Total supply: 1,000,000,000 PAN
+>
+> - 40% of PAN will be allocated among participants of the ICO.
+> - The remaining 59% of PAN are reserved as a company reserve for future fundraising, management & employees and bounties. 1% of PAN will be airdropped to eligible Bitpanda users.
 
 
 Note: A simple rule of thumb: If more than 50% of the coins are held in reserve (and NOT sold to the public), 
