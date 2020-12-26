@@ -289,7 +289,7 @@ Official Updates:
 >
 > Source: [Pantos Project Update: The way towards instant cross-blockchain communication](https://medium.com/pantos/pantos-project-update-the-way-towards-instant-cross-blockchain-communication-f43e32b7f383), December 2020
 
-We are also still researching how to break the news that your PAN tokens
+We are still researching how to break the news that your PAN tokens
 are ...  yes, please, do your own researching to figure that out.
 
 
