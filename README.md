@@ -7,8 +7,9 @@
 
 **Update 2020 - (3 Years Later)**
 
-- Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
-- Lancer (LNC) by by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD**  - Return on "Investment" (ROI) **-97.52%**
+- Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD** (All Time High $0.324006 USD (Jan 11, 2018))  - Return on "Investment" (ROI) **-98.18%**
+- Lancer (LNC) by by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
+- Rotharium (RTH) by Crypto Future   - Price Today (Dec 2020)  - **$0.497501 USD** (All Time High $9.44 USD (Nov 06, 2018)) - Return on "Investment" (ROI) **-89.22%**
 
 ---
 
@@ -152,7 +153,7 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 **Update 2020 - (3 Years Later)**
 
-Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
+Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD** (All Time High $0.324006 USD (Jan 11, 2018)) - Return on "Investment" (ROI) **-98.18%**
 
 ![](i/hero-2020.png)
 
@@ -205,7 +206,7 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 **Update 2020 - (3 Years Later)**
 
-Lancer (LNC) by by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD**  - Return on "Investment" (ROI) **-97.52%**
+Lancer (LNC) by by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
 
 ![](i/blocklancer-2020.png)
 
@@ -216,11 +217,21 @@ Lancer (LNC) by by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD**  - 
 
 Scam Alert: High
 
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-89.22%%  (Thanks, for the Free Money!)**, (Source: [Rotharium Price Today](https://coinmarketcap.com/currencies/rotharium/))
+
+
 Token: Ethereum #20
 
 by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
 ![](i/tweet-rotharium.png)
+
+**Update 2020 - (3 Years Later)**
+
+Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (All Time High $9.44 USD (Nov 06, 2018)) - Return on "Investment" (ROI) **-89.22%**
+
+![](i/rotharium-2020.png)
+
 
 
 ### Pantos (PAN) by Bitpanda
