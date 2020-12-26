@@ -272,7 +272,7 @@ _The (world's) first multi-blockchain token system. Made with ♥ and care in Vi
 
 by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 
-Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
+Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
@@ -336,7 +336,7 @@ _A fuel for building the modern financing infrastructure on the blockchain based
 by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
 
-Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
@@ -374,7 +374,7 @@ _(World's) first holistic blockchain platform that connects culture lovers, cult
 by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
 
 
-Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+Scam Alert: High  - **Update 2020 - (3 Years Later)**   **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
 
 (†) If you have news on the scam or historic price data, please let us know.
 
