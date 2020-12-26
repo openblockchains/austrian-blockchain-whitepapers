@@ -115,6 +115,8 @@ Token: Ethereum #20
 
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
+**Update** Return on Investment (ROI) in 2020:  -98.20%  (Thanks, for the Free Money!), (Source: [Herocoin Price Today](https://coinmarketcap.com/en/currencies/herocoin/))
+
 ![](i/tweet-hero.png)
 
 ![](i/tweet-hero-iii.png)
@@ -138,6 +140,9 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 > and especially "when are the bounties [free tokens, free money] distributed?".
 >
 > Source: [Community Management during an ICO, Official Hero Coin Blog](https://medium.com/@HEROCoin/community-management-during-an-ico-3b22624c485a), October 2017
+
+
+**Update 2020 - (3 Years Later)**
 
 
 
