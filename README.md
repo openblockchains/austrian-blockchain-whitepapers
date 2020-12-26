@@ -132,10 +132,8 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 Scam Alert: Medium   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
-- Token: PLAY
-- Type: Ethereum #20 / Utility
-- Price in ICO: 0.0399 USD
-- ICO: 14th Sep - 14th Oct 2017
+- Token: PLAY - Ethereum #20 / Utility
+- ICO: 14th Sep - 14th Oct 2017  (Price in ICO: 0.0399 USD)
 
 
 ![](i/tweet-hero.png)
@@ -219,12 +217,9 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
 
-- Token: LNC
-- Type: Ethereum #20 / Utility
-- Price in preICO: 1 ETH = 20,000 LNC
-- Price in ICO: 0.0910 USD
-- preICO: 7th - 21st Sep 2017
-- ICO: 16th Jan - 16th Feb 2018
+- Token: LNC - Ethereum #20 / Utility
+- preICO: 7th - 21st Sep 2017 (Price in preICO: 1 ETH = 20,000 LNC)
+- ICO: 16th Jan - 16th Feb 2018 (Price in ICO: 0.0910 USD)
 
 
 ![](i/tweet-blocklancer.png)
@@ -254,11 +249,9 @@ by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
 Scam Alert: High   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-89.22%%  (Thanks, for the Free Money!)**, (Source: [Rotharium Price Today](https://coinmarketcap.com/currencies/rotharium/))
 
-- Token: RTH
-- Type: Ethereum #20 / Payment
-- Price in ICO: 6.6017 USD
+- Token: RTH - Ethereum #20 / Payment
 - preICO: 16th Nov - 12th Dec 2017
-- ICO: 13th Dec 2017 - 14th Jan 2018
+- ICO: 13th Dec 2017 - 14th Jan 2018 (Price in ICO: 6.6017 USD)
 
 
 ![](i/tweet-rotharium.png)
@@ -284,8 +277,7 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI
 (†) If you have news on the scam or historic price data, please let us know.
 
 
-Token:  PAN
-Type: Ethereum #20 / Utility
+Token:  PAN - Ethereum #20 / Utility
 
 
 ![](i/tweet-bitpanda.png)
@@ -348,8 +340,7 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)** Return on Investment (ROI
 
 (†) If you have news on the scam or historic price data, please let us know.
 
-- Token: CRWD (or CRWT?)
-- Type: Ethereum #20 / Utility
+- Token: CRWD (or CRWT?) - Ethereum #20 / Utility
 - PreICO Price: CRWT = 1 EUR
 - Price: CRWT = 1 EUR
 
@@ -387,14 +378,11 @@ Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI)
 
 (†) If you have news on the scam or historic price data, please let us know.
 
-- Token: CC
-- Type: Ethereum #20 / Utility
-- Price in ICO: 0.0370 USD
+- Token: CC -  Ethereum #20 / Utility
 - preICO: 26th Feb - 4th Mar 2018
-- ICO: 5th Mar - 31st Dec 2018
+- ICO: 5th Mar - 31st Dec 2018  (Price in ICO: 0.0370 USD)
 
 ![](i/tweet-culturalplaces.png)
-
 
 
 
