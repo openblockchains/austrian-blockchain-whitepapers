@@ -111,11 +111,12 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 
 Scam Alert: Medium
 
+**Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/en/currencies/herocoin/))
+
 Token: Ethereum #20
 
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
-**Update** Return on Investment (ROI) in 2020:  -98.20%  (Thanks, for the Free Money!), (Source: [Herocoin Price Today](https://coinmarketcap.com/en/currencies/herocoin/))
 
 ![](i/tweet-hero.png)
 
