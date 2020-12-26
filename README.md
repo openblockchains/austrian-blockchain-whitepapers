@@ -145,7 +145,9 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
 **Update 2020 - (3 Years Later)**
 
+Hero / Herocoin (PLAY) Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
 
+![](i/hero-2020.png)
 
 
 
