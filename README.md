@@ -269,6 +269,37 @@ Note: A simple rule of thumb: If more than 50% of the coins are held in reserve 
 it's a redflag and you are seeing a scam by greedy bastards in action!  
 
 
+**Update 2020 - (3 Years Later)**
+
+Official Updates:
+
+> Jul/2020: We're celebrating two years of $PAN being tradeable [on our own Bitpanda exchange].
+> 
+> - Buy at least €25 PAN between the 26th of July and 2nd of August  and be eligible to win 20,000 PAN. 
+> - Buy the highest amount of PAN on the 26th of July, 2020 and win 50,000 PAN.
+
+
+> Dec/2020:
+> The Pantos project hasn't changed since its inception over 2.5 years ago,
+>   [..]
+>
+> The Pantos community keeps asking for a timeline, 
+> for plans to reward ICO-participants and a product. 
+> Let it be known: we hear you, we feel you.
+
+We are also still researching how to break the news that your PAN tokens
+are ...  yes, please, do your own researching to figure that out.
+
+
+<!-- 
+ sources:
+https://twitter.com/PantosIO/status/1286229427899305985
+https://medium.com/pantos/pantos-project-update-the-way-towards-instant-cross-blockchain-communication-f43e32b7f383
+-->
+
+
+
+
 ### Crowd (CRWD) by Conda
 
 _A fuel for building the modern financing infrastructure based on trust and commitment_
