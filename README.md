@@ -123,6 +123,8 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 
 ### Hero / Herocoin (PLAY) by Byte Heroes
 
+_Decentralized solution for i(nteractive video) gaming. Use $PLAY to bet on esports with our platform herosphere.gg_ 
+
 Scam Alert: Medium
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
@@ -196,6 +198,8 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 ### Lancer (LNC) by Blocklancer 
 
+_Distributed autonomous job market. Completely self-regulatory blockchain system for freelancers for finding jobs and getting projects done_
+
 Scam Alert: High
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
@@ -217,9 +221,22 @@ Lancer (LNC) by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All T
 ![](i/blocklancer-2020.png)
 
 
+Data:
+- Token: LNC
+- Type:  Utility
+- Price in preICO: 1 ETH = 20,000 LNC
+- Price in ICO: 0.0910 USD
+- preICO start: 7th Sep 2017
+- preICO end: 21st Sep 2017
+- ICO start: 16th Jan 2018
+- ICO end: 16th Feb 2018
+
+<!-- more -->
+- Source Code: [BlocklancerOrg @ GitHub](https://github.com/BlocklancerOrg)
 
 
 ### Rotharium (RTH) by Crypto Future
+
 
 Scam Alert: High
 
@@ -241,6 +258,8 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 
 
 ### Pantos (PAN) by Bitpanda
+
+_The (world's) first multi-blockchain token system. Made with ♥ and care in Vienna, Austria by Bitpanda_
 
 Scam Alert: Medium
 
