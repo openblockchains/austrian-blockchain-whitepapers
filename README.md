@@ -271,6 +271,8 @@ it's a redflag and you are seeing a scam by greedy bastards in action!
 
 ### Crowd (CRWD) by Conda
 
+_A fuel for building the modern financing infrastructure based on trust and commitment_
+
 Scam Alert: Medium
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
@@ -289,6 +291,15 @@ by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
 ![](i/tweet-conda-austria-iii.png)
 
+
+> During the Private-, Pre- & Crowd-Sale, we are entitled to distribute CRWD Tokens (including Bonus Tokens)
+> of up to 50 % of the total CRWD Token Number (including Bonus Tokens). If by the end of the offer period, 
+> the actual number of tokens distributed by CONDA (including Bonus Tokens) is less than 50 % of the total token amount, 
+> the total token amount shall be adjusted, and CONDA will burn tokens accordingly, 
+> so that the number of tokens distributed by the end of the offer period (including any bonus tokens) 
+> corresponds to 50 % of the then adjusted total token amount.
+> CONDA will then retain any tokens that were neither distributed nor burned and shall be entitled to distribute 
+> them at a later stage, if and when required or desirable by CONDA.
 
 
 
