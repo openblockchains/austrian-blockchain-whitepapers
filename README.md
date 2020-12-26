@@ -123,15 +123,20 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 
 ### Hero / Herocoin (PLAY) by Byte Heroes
 
+by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
+
+
 _Decentralized solution for i(nteractive video) gaming. Use $PLAY to bet on esports with our platform herosphere.gg_ 
 
 Scam Alert: Medium
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
-Token: Ethereum #20
-
-by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
+- Token: PLAY
+- Type: Ethereum #20 / Utility
+- Price in ICO: 0.0399 USD
+- ICO start: 14th Sep 2017
+- ICO end: 14th Oct 2017
 
 
 ![](i/tweet-hero.png)
@@ -198,16 +203,24 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 ### Lancer (LNC) by Blocklancer 
 
+by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
+
+
 _Distributed autonomous job market. Completely self-regulatory blockchain system for freelancers for finding jobs and getting projects done_
 
 Scam Alert: High
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
 
+- Token: LNC
+- Type: Ethereum #20 / Utility
+- Price in preICO: 1 ETH = 20,000 LNC
+- Price in ICO: 0.0910 USD
+- preICO start: 7th Sep 2017
+- preICO end: 21st Sep 2017
+- ICO start: 16th Jan 2018
+- ICO end: 16th Feb 2018
 
-Token: Ethereum #20
-
-by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
 ![](i/tweet-blocklancer.png)
 
@@ -221,21 +234,13 @@ Lancer (LNC) by Blocklancer - Price Today (Dec 2020)  -	**$0.000249 USD** (All T
 ![](i/blocklancer-2020.png)
 
 
-Data:
-- Token: LNC
-- Type:  Utility
-- Price in preICO: 1 ETH = 20,000 LNC
-- Price in ICO: 0.0910 USD
-- preICO start: 7th Sep 2017
-- preICO end: 21st Sep 2017
-- ICO start: 16th Jan 2018
-- ICO end: 16th Feb 2018
-
 <!-- more -->
 - Source Code: [BlocklancerOrg @ GitHub](https://github.com/BlocklancerOrg)
 
 
 ### Rotharium (RTH) by Crypto Future
+
+by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
 
 Scam Alert: High
@@ -245,7 +250,6 @@ Scam Alert: High
 
 Token: Ethereum #20
 
-by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
 ![](i/tweet-rotharium.png)
 
@@ -259,6 +263,8 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 
 ### Pantos (PAN) by Bitpanda
 
+by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
+
 _The (world's) first multi-blockchain token system. Made with ♥ and care in Vienna, Austria by Bitpanda_
 
 Scam Alert: Medium
@@ -270,7 +276,6 @@ Scam Alert: Medium
 
 Token: Ethereum #20
 
-by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 
 ![](i/tweet-bitpanda.png)
 
@@ -323,6 +328,8 @@ https://medium.com/pantos/pantos-project-update-the-way-towards-instant-cross-bl
 
 ### Crowd (CRWD) by Conda
 
+by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
+
 _A fuel for building the modern financing infrastructure based on trust and commitment_
 
 Scam Alert: Medium
@@ -333,7 +340,6 @@ Scam Alert: Medium
 
 Token: Ethereum #20
 
-by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
 ![](i/tweet-conda-austria-bounty.png)
 
@@ -357,6 +363,8 @@ by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
 ### Cultural Coin (CC) by Cultural Places / Oroundo Mobile
 
+by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
+
 Scam Alert: High
 
 **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
@@ -366,7 +374,6 @@ Scam Alert: High
 
 Token: Ethereum #20
 
-by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
 
 ![](i/tweet-culturalplaces.png)
 
