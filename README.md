@@ -5,6 +5,13 @@
 
 ---
 
+**Update 2020 - (3 Years Later)**
+
+- Hero / Herocoin (PLAY) by Byte Heroes Today (Dec 2020)  -	**$0.001690 USD**  - Return on "Investment" (ROI) **-98.18%**
+- Lancer (LNC) by by Blocklancer Today (Dec 2020)  -	**$0.000249 USD**  - Return on "Investment" (ROI) **-97.52%**
+
+---
+
 ![](i/tweet-rotharium-ii-300px.png)
 
 
