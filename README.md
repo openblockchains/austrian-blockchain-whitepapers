@@ -2,20 +2,6 @@
 
 **New to Initial Coin Offerings (ICOs) / Scams? See the [Awesome Initial Coin Offerings (ICO) Truths - The Art of the Steal - The Scammers' Big Lies](https://github.com/openblockchains/awesome-ico-truths) page.**
 
-
----
-
-**Update 2020 - (3 Years Later)**
-
-- Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD** (All Time High $0.324006 USD (Jan 11, 2018))  - Return on "Investment" (ROI) **-98.18%**
-- Lancer (LNC) by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
-- Rotharium (RTH) by Crypto Future   - Price Today (Dec 2020)  - **$0.497501 USD** (All Time High $9.44 USD (Nov 06, 2018)) - Return on "Investment" (ROI) **-89.22%**
-- Pantos (PAN) by Bitpanda - **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
-- Crowd (CRWD) by Conda    - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
-- Cultural Coin (CC) by Cultural Places / Oroundo Mobile  - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
-
-(†) If you have news on the scam or historic price data, please let us know.
-
 ---
 
 ![](i/tweet-rotharium-ii-300px.png)
@@ -33,6 +19,21 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
 Welcome greater fools! Thanks for your money and hodling the bag!
+
+---
+
+**Update 2020 - (3 Years Later)**
+
+- Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 USD** (All Time High $0.324006 USD (Jan 11, 2018))  - Return on "Investment" (ROI) **-98.18%**
+- Lancer (LNC) by Blocklancer   - Price Today (Dec 2020)  -	**$0.000249 USD** (All Time High $0.064559 USD (Apr 16, 2018))  - Return on "Investment" (ROI) **-97.52%**
+- Rotharium (RTH) by Crypto Future   - Price Today (Dec 2020)  - **$0.497501 USD** (All Time High $9.44 USD (Nov 06, 2018)) - Return on "Investment" (ROI) **-89.22%**
+- Pantos (PAN) by Bitpanda - **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
+- Crowd (CRWD) by Conda    - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+- Cultural Coin (CC) by Cultural Places / Oroundo Mobile  - **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
+
+(†) If you have news on the scam or historic price data, please let us know.
+
+---
 
 Contents
 
