@@ -83,7 +83,7 @@ Links:
 
 ## Crowd (CRWD) by Conda
 
-Contract <??>
+Contract ??
 
 Source @ <https://github.com/conda-ag/crwdtoken>
 
@@ -97,7 +97,7 @@ Links:
 
 ## Cultural Coin (CC) by Cultural Places / Oroundo Mobile
 
-Contract <??>
+Contract ??
 
 Source @ ??
 
