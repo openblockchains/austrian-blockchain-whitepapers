@@ -9,7 +9,7 @@
 
 PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 
-# Austrian Blockchain Token Whitepapers
+# Austrian Blockchain Token Whitepapers 'n' Initial Coin Offerings (ICOs)
 
 ![](i/tweet-hero-v.png)
 
@@ -19,6 +19,25 @@ PLAY • LNC •  RTH •  PAN •  CRWD •  CC
 The art of the steal / deal - Made in Austria   - Collection of token white papers on the blockchain
 
 Welcome greater fools! Thanks for your money and hodling the bag!
+
+
+#### Timeline - Initial Coin Offerings (ICO)s
+
+##### 2017
+
+14th Sep - 14th Oct 2017   - Hero / Herocoin (PLAY) by Byte Heroes
+
+13th Dec 2017 - 14th Jan 2018    - Rotharium (RTH) by Crypto Future
+
+##### 2018
+
+16th Jan - 16th Feb 2018   - Lancer (LNC) by Blocklancer
+
+5th Mar - 31st Dec 2018  - Cultural Coin (CC) by Cultural Places / Oroundo Mobile
+
+21st Mar - 21st Apr 2018   - Pantos (PAN) by Bitpanda
+
+4th Aug  - 12th Sep  2018   - Crowd (CRWD) by Conda
 
 ---
 
@@ -120,27 +139,6 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 
 
 ## Austrian Blockchain Tokens
-
-
-#### Timeline
-
-##### 2017
-
-ICO: 14th Sep - 14th Oct 2017   - Hero / Herocoin (PLAY) by Byte Heroes
-
-ICO: 13th Dec 2017 - 14th Jan 2018    - Rotharium (RTH) by Crypto Future
-
-##### 2018
-
-ICO: 16th Jan - 16th Feb 2018   - Lancer (LNC) by Blocklancer
-
-ICO: 5th Mar - 31st Dec 2018  - Cultural Coin (CC) by Cultural Places / Oroundo Mobile
-
-ICO:  21st Mar - 21st Apr 2018   - Pantos (PAN) by Bitpanda
-
-ICO:  4th Aug  - 12th Sep  2018   - Crowd (CRWD) by Conda
-
----
 
 _Decentralized blockchain solution for i(nteractive video) gaming. Use $PLAY to bet on esports on our herosphere.gg website_ 
 
