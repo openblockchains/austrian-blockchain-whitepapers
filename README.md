@@ -172,7 +172,7 @@ Hero / Herocoin (PLAY) by Byte Heroes - Price Today (Dec 2020)  -	**$0.001690 US
 
 
 <!-- more -->
-Source Code: [ByteHeroes @ GitHub](https://github.com/ByteHeroes)
+Source Code: [ByteHeroes/herocoin @ GitHub](https://github.com/ByteHeroes/herocoin)
 
 
 
@@ -263,6 +263,9 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 ![](i/rotharium-2020.png)
 
 
+<!-- more -->
+Source Code: [CryptoFutureGmbH/RothariumToken @ GitHub](https://github.com/CryptoFutureGmbH/RothariumToken)
+
 
 ---
 
@@ -318,6 +321,9 @@ Official Updates:
 
 We are still researching how to break the news that your PAN tokens
 are ...  yes, please, do your own researching to figure that out.
+
+
+![](i/pantos-hodlers.png)
 
 
 <!-- 
