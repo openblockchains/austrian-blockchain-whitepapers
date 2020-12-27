@@ -281,7 +281,7 @@ Rotharium (RTH) by Crypto Future - Price Today (Dec 2020)  -	**$0.497501 USD** (
 
 
 <!-- more -->
-Source Code: [CryptoFutureGmbH/RothariumToken @ GitHub](https://github.com/CryptoFutureGmbH/RothariumToken)
+Source Code: [rotharium @ GitHub](https://github.com/rotharium), [CryptoFutureGmbH/RothariumToken @ GitHub](https://github.com/CryptoFutureGmbH/RothariumToken)
 
 
 ---
