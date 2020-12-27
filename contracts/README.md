@@ -1,4 +1,4 @@
-# Contracts - Austrain Blockchain Tokens / Initial Coin Offerings (ICO)s
+# Contracts - Austrain Blockchain Tokens / Initial Coin Offerings (ICOs)
 
 
 ## Hero / Herocoin (PLAY) by Byte Heroes
@@ -11,8 +11,7 @@ Source @ <https://github.com/ByteHeroes/herocoin>
 Etherscan - Token - Herocoin  #Gambling
  <https://etherscan.io/token/0xe477292f1b3268687a29376116b0ed27a9c76170>
 
-- ICO Start Date:  Sep 14, 2017
-- ICO End Date	:	Oct 16, 2017
+- ICO Date :  Sep 14 -	Oct 16, 2017
 - Raised	:	$2,021,034
 - ICO Price 	:	$0.024
 
@@ -34,8 +33,7 @@ Etherscan - Token - Lancer Token
  <https://etherscan.io/token/0x63e634330a20150dbb61b15648bc73855d6ccf07>
 
 
-- ICO Start Date	:	Jan 16, 2018 
-- ICO End Date	:	Feb 16, 2018
+- ICO Date	:	Jan 16 - Feb 16, 2018
 - Total Raised	:	6,402.934 ETH
 - Hard Cap	:	US$10,000,000
 - Soft Cap	:	US$1,000,000
@@ -57,10 +55,9 @@ Source @ <https://github.com/CryptoFutureGmbH/RothariumToken>
 Etherscan - Token
  <https://etherscan.io/token/0x3fd8f39a962efda04956981c31ab89fab5fb8bc8>
 
-- ICO Start Date :	Dec 13, 2017  
-- ICO End Date	:	Feb 13, 2018
-- ICO Price 	:	0.005 ETH
+- ICO Date :	Dec 13, 2017 -	Feb 13, 2018
 - Raised	:	$5,000,000
+- ICO Price 	:	0.005 ETH
 
 Links:
 - <https://coinmarketcap.com/currencies/rotharium/>
@@ -77,7 +74,6 @@ Source @ ??
 Etherscan - Token Pantos Token
   <https://etherscan.io/token/0x536381a8628dbcc8c70ac9a30a7258442eab4c92>
 
-- ICO Start Date: March 21, 2018 
 
 Links:
 - <https://coinmarketcap.com/currencies/pantos/>
