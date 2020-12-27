@@ -21,23 +21,23 @@ The art of the steal / deal - Made in Austria   - Collection of token white pape
 Welcome greater fools! Thanks for your money and hodling the bag!
 
 
-#### Timeline - Initial Coin Offerings (ICO)s
+### Timeline - Initial Coin Offerings (ICO)s
 
-##### 2017
+#### 2017
 
-14th Sep - 14th Oct 2017   - Hero / Herocoin (PLAY) by Byte Heroes
+14th Sep - 14th Oct 2017   - [Hero / Herocoin (PLAY) by Byte Heroes](#hero--herocoin-play-by-byte-heroes)
 
-13th Dec 2017 - 14th Jan 2018    - Rotharium (RTH) by Crypto Future
+13th Dec 2017 - 14th Jan 2018    - [Rotharium (RTH) by Crypto Future](#rotharium-rth-by-crypto-future)
 
-##### 2018
+#### 2018
 
-16th Jan - 16th Feb 2018   - Lancer (LNC) by Blocklancer
+16th Jan - 16th Feb 2018   - [Lancer (LNC) by Blocklancer](#lancer-lnc-by-blocklancer)
 
-5th Mar - 31st Dec 2018  - Cultural Coin (CC) by Cultural Places / Oroundo Mobile
+5th Mar - 31st Dec 2018  - [Cultural Coin (CC) by Cultural Places / Oroundo Mobile](#cultural-coin-cc-by-cultural-places--oroundo-mobile)
 
-21st Mar - 21st Apr 2018   - Pantos (PAN) by Bitpanda
+21st Mar - 21st Apr 2018   - [Pantos (PAN) by Bitpanda](#pantos-pan-by-bitpanda)
 
-4th Aug  - 12th Sep  2018   - Crowd (CRWD) by Conda
+4th Aug  - 12th Sep  2018   - [Crowd (CRWD) by Conda](#crowd-crwd-by-conda)
 
 ---
 
