@@ -21,7 +21,7 @@ The art of the steal / deal - Made in Austria   - Collection of token white pape
 Welcome greater fools! Thanks for your money and hodling the bag!
 
 
-### Timeline - Initial Coin Offerings (ICO)s
+### Timeline - Initial Coin Offerings (ICOs)
 
 #### 2017
 
