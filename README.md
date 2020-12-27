@@ -122,6 +122,25 @@ What Trolly McTrollface says to "ICOs are like Bitcoin / BTC":
 ## Austrian Blockchain Tokens
 
 
+#### Timeline
+
+##### 2017
+
+ICO: 14th Sep - 14th Oct 2017   - Hero / Herocoin (PLAY) by Byte Heroes
+
+ICO: 13th Dec 2017 - 14th Jan 2018    - Rotharium (RTH) by Crypto Future
+
+##### 2018
+
+ICO: 16th Jan - 16th Feb 2018   - Lancer (LNC) by Blocklancer
+
+ICO: 5th Mar - 31st Dec 2018  - Cultural Coin (CC) by Cultural Places / Oroundo Mobile
+
+ICO:  21st Mar - 21st Apr 2018   - Pantos (PAN) by Bitpanda
+
+ICO:  4th Aug  - 12th Sep  2018   - Crowd (CRWD) by Conda
+
+---
 
 _Decentralized blockchain solution for i(nteractive video) gaming. Use $PLAY to bet on esports on our herosphere.gg website_ 
 
@@ -133,7 +152,7 @@ by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 Scam Alert: Medium   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
 - Token: PLAY - Ethereum #20 / Utility
-- ICO: 14th Sep - 14th Oct 2017  (Price in ICO: 0.0399 USD)
+- ICO: 14th Sep - 14th Oct 2017  @ (Price in ICO: 0.0399 USD)
 
 
 ![](i/tweet-hero.png)
@@ -218,8 +237,8 @@ by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
 
 - Token: LNC - Ethereum #20 / Utility
-- preICO: 7th - 21st Sep 2017 (Price in preICO: 1 ETH = 20,000 LNC)
-- ICO: 16th Jan - 16th Feb 2018 (Price in ICO: 0.0910 USD)
+- preICO: 7th - 21st Sep 2017  @ (Price in preICO: 1 ETH = 20,000 LNC)
+- ICO: 16th Jan - 16th Feb 2018  @ (Price in ICO: 0.0910 USD)
 
 
 ![](i/tweet-blocklancer.png)
@@ -251,7 +270,7 @@ Scam Alert: High   - **Update 2020 - (3 Years Later)** Return on Investment (ROI
 
 - Token: RTH - Ethereum #20 / Payment
 - preICO: 16th Nov - 12th Dec 2017
-- ICO: 13th Dec 2017 - 14th Jan 2018 (Price in ICO: 6.6017 USD)
+- ICO: 13th Dec 2017 - 14th Jan 2018  @ (Price in ICO: 6.6017 USD)
 
 
 ![](i/tweet-rotharium.png)
@@ -280,7 +299,8 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Ongoing Scam and Price
 (†) If you have news on the scam or historic price data, please let us know.
 
 
-Token:  PAN - Ethereum #20 / Utility
+- Token:  PAN - Ethereum #20 / Utility
+- ICO: 21st Mar - 21st Apr 2018
 
 
 ![](i/tweet-bitpanda.png)
@@ -323,7 +343,13 @@ We are still researching how to break the news that your PAN tokens
 are ...  yes, please, do your own researching to figure that out.
 
 
+Pantos Distribution in Dec/2020:
+
 ![](i/pantos-hodlers.png)
+
+
+<!-- more -->
+Source Code: [pantos-io @ GitHub](https://github.com/pantos-io)
 
 
 <!-- 
@@ -347,9 +373,8 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Gone / Exit Scam? Than
 (†) If you have news on the scam or historic price data, please let us know.
 
 - Token: CRWD (or CRWT?) - Ethereum #20 / Utility
-- PreICO Price: CRWT = 1 EUR
-- Price: CRWT = 1 EUR
-
+- preICO:  4th Jun - 3rd Aug, 2018  @ (CRWT = 1 EUR)
+- ICO: 4th Aug -  12th Sep, 2018  @ (CRWT = 1 EUR)
 
 
 ![](i/tweet-conda-austria-bounty.png)
@@ -369,6 +394,11 @@ Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Gone / Exit Scam? Than
 > corresponds to 50 % of the then adjusted total token amount.
 > CONDA will then retain any tokens that were neither distributed nor burned and shall be entitled to distribute 
 > them at a later stage, if and when required or desirable by CONDA.
+
+
+
+<!-- more -->
+Source Code: [conda-ag @ GitHub](https://github.com/conda-ag)
 
 
 ---
