@@ -146,7 +146,8 @@ _Decentralized blockchain solution for i(nteractive video) gaming. Use $PLAY to 
 
 by Byte Heroes, Praterstraße 1/3 Space 32, 1020 Vienna, Austria
 
-The Hero White Paper, [PDF Download (~700k, 34 Pages)](hero/herocoin-whitepaper.pdf)
+The Hero White Paper, [PDF Download (~700k, 34 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/hero/herocoin-whitepaper.pdf)
+
 
 Scam Alert: Medium   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-98.20%  (Thanks, for the Free Money!)**, (Source: [Herocoin Price Today](https://coinmarketcap.com/currencies/herocoin/))
 
@@ -232,7 +233,7 @@ _Distributed autonomous job market. Completely self-regulatory blockchain system
 
 by Blocklancer, Reichenauerstraße 84, 6020 Innsbruck, Austria
 
-The Blocklancer White Paper, [PDF Download (~2,000k, 41 Pages)](lancer/lancer-whitepaper.pdf)
+The Blocklancer White Paper, [PDF Download (~2,000k, 41 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/lancer/lancer-whitepaper.pdf)
 
 Scam Alert: High  - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-97.52%  (Thanks, for the Free Money!)**, (Source: [Blocklancer Price Today](https://coinmarketcap.com/currencies/blocklancer/))
 
@@ -266,7 +267,7 @@ _The gate to the blockchain that enables you to integrate your apps into the blo
 
 by Crypto Future, Donau City Straße 7, 1220 Vienna, Austria
 
-The Rotharium White Paper, [PDF Download (~1,500k, 25 Pages)](rotharium/rotharium-whitepaper.pdf)
+The Rotharium White Paper, [PDF Download (~1,500k, 25 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/rotharium/rotharium-whitepaper.pdf)
 
 
 Scam Alert: High   - **Update 2020 - (3 Years Later)** Return on Investment (ROI) in 2020:  **-89.22%%  (Thanks, for the Free Money!)**, (Source: [Rotharium Price Today](https://coinmarketcap.com/currencies/rotharium/))
@@ -297,7 +298,7 @@ _The (world's) first multi-blockchain token system. Made with ♥ and care in Vi
 
 by Pantos, Burggasse 116/3+3A, 1070 Vienna, Austria
 
-The Pantos White Paper, [PDF Download (~1,500k, 45 Pages)](pantos/pantos-whitepaper.pdf)
+The Pantos White Paper, [PDF Download (~1,500k, 45 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/pantos/pantos-whitepaper.pdf)
 
 Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Ongoing Scam and Price Manipulation?**,  No Historic Price Data Found (†) 
 
@@ -372,7 +373,7 @@ _A fuel for building the modern financing infrastructure on the blockchain based
 
 by Conda, Donau-City-Straße 6, 1220 Vienna, Austria
 
-The Crowd Token White Paper, [PDF Download (~8,500k, 42 Pages)](conda/conda-whitepaper.pdf)
+The Crowd Token White Paper, [PDF Download (~8,500k, 42 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/conda/conda-whitepaper.pdf)
 
 
 Scam Alert: Medium - **Update 2020 - (3 Years Later)**  **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
@@ -416,7 +417,7 @@ _(World's) first holistic blockchain platform that connects culture lovers, cult
 
 by Oroundo Mobile, Gölsdorfgasse 4 Top 5A, 1010 Vienna, Austria
 
-The Crowd Token White Paper, [PDF Download (~8,000k, 63 Pages)](culturalplaces/culturalplaces-whitepaper.pdf)
+The Crowd Token White Paper, [PDF Download (~8,000k, 63 Pages)](https://github.com/openblockchains/austrian-blockchain-whitepapers/raw/master/culturalplaces/culturalplaces-whitepaper.pdf)
 
 Scam Alert: High  - **Update 2020 - (3 Years Later)**   **Gone / Exit Scam? Thanks, for the Free Money!**,  "Traded" Anywhere? No Historic Price Data Found (†) 
 
