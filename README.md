@@ -114,8 +114,19 @@ Bitcoins get "mined" with every new block every ten minutes. You CANNOT buy newl
 The bitcoin "lottery" gives away FREE bitcoins
 to the lucky winner / number every ten minutes with every block added for the next TWENTY YEARS.
 
-Why a lottery? A random (secure) lottery - using the famous proof-of-work hashing crypto "puzzle" -
-is the fairest distribution between all network nodes / peers / players.
+Why a lottery? A random (secure) lottery - using the famous proof-of-work / waste hashing crypto "puzzle" -
+is the fairest distribution between all network nodes / peers / players (in theory).
+
+**BEWARE: Bitcoin is a gigantic ponzi scheme¹.
+To the moon!? The new gold standard!? 
+Do NOT "invest" trying to get-rich-quick HODLing. 
+Why not? The bitcoin code is archaic and out-of-date.
+Burn, baby, burn! Proof-of-work / waste is a global
+energy environmental disaster
+using 300 kWh per bitcoin transaction (!) that's about 179 kilograms of CO₂ emissions².
+Programmable money (or the internet of value) 
+for all future generations with (bitcoin) script
+without loops and jumps (gotos) and all "stateless"!? LOL.**
 
 
 vs
